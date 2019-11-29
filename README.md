@@ -9,7 +9,7 @@ Node : v 12.10.0
 
 ```
 npm init -f
-``
+```
 
 Babel.js : v 7.7.4
 
